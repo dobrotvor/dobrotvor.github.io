@@ -10,6 +10,13 @@ Kao razlog nastanka NVO, mi, inicijalni osnivači, navodimo stanje u kojem se na
 
 Kako NVO organizacija još nije pravno osnovana, bilo koja osoba, koja vidi sebe u IT zajednici i želi da doprinese nastavku projekta je član NVO. Po osnivanju NVO kao pravnog lica, članovi će imati posebne obaveze i kontrolu nad novoosnovanom NVO, koje će biti definisane Statutom i Opštim Uslovima. 
 
-# Zašto kreirati NVO kad postoji UNICEF/UNHCR/DIVAC/Đinđić/itd... fondacije?
+# Zašto kreirati NVO kad postoje UNICEF/UNHCR/DIVAC/Đinđić/itd... fondacije?
 
-Mi, inicijalni osnivači verujemo da kao donatori, želimo da imamo kontrolu nad našim donacijama i da možemo da usmerimo donacije u smeru u kojem mislimo da su nama bitne. Drugi razlog, isto veoma bitan koliko i prvi su sami troškovi organizacije. Velike organizacije imaju takođe veliki trošak u marketingu, distribuciji, itd, tj, želja da se što više ljudi uključi u donacije rezultuje u velikim troškovima marketinga. Fokusiranjem na IT zajednicu, koja prema procenama broji svega oko 10 hiljada građana, marketing postaje relativno mali procenat troškova naše NVO organizacije.
+Mi, inicijalni osnivači verujemo da kao donatori, želimo da imamo kontrolu nad našim donacijama i da možemo da usmerimo donacije u smeru u kojem mislimo da su nama bitne. Drugi razlog, isto veoma bitan koliko i prvi su sami troškovi organizacije. Velike organizacije imaju takođe veliki trošak u marketingu, distribuciji, itd, tj, želja da se što više ljudi uključi u donacije rezultuje u velikim troškovima marketinga. Fokusiranjem na IT zajednicu, koja prema procenama broji svega oko 10 hiljada građana, marketing postaje relativno mali procenat troškova.
+
+# Zašto donirati?
+
+Svako ima svoj razlog zašto donirati. Živeti u Srbiji ima svojih vrlina, ali sa druge strane ima i svojih mana. Doniranjem, možemo učiniti našu sredinu boljom i kvalitetnijom. Ili na kraju taj osećaj, da si koristan društvu, tj da je Srbija bolja što ima nas u IT zajednici je neproceniv. Možda nam ti možeš reći zašto želiš da doniraš?
+
+# Želiš da se uključiš?
+Ako si rešio da se uključiš pogledaj Nacrt Statuta, uključi se u diskusiju na Slack, tj, pošalji zahtev na <dobrotvornvo@gmail.com>.
