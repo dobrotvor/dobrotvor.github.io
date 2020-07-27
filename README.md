@@ -19,4 +19,4 @@ Mi, inicijalni osnivači verujemo da kao donatori, želimo da imamo kontrolu nad
 Svako ima svoj razlog zašto donirati. Živeti u Srbiji ima svojih vrlina, ali sa druge strane ima i svojih mana. Doniranjem, možemo učiniti našu sredinu boljom i kvalitetnijom. Ili na kraju taj osećaj, da si koristan društvu, tj da je Srbija bolja što ima nas u IT zajednici je neproceniv. Možda nam ti možeš reći zašto želiš da doniraš?
 
 # Želiš da se uključiš?
-Ako si rešio da se uključiš pogledaj Nacrt Statuta, uključi se u [diskusiju](https://github.com/dobrotvor/organizacija/issues), ili se poveži na Slack, tj, pošalji zahtev tvojim imenom na <dobrotvornvo@gmail.com>.
+Ako si rešio da se uključiš pogledaj Nacrt Statuta, uključi se u [diskusiju](https://github.com/dobrotvor/organizacija/issues), ili se poveži na Slack, tj, pošalji zahtev sa tvojim imenom na <dobrotvornvo@gmail.com>.
